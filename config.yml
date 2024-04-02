@@ -1,0 +1,19 @@
+# 数据库设置
+mysql:
+  port: 3306  # 端口
+  user: "root"  # 用户名
+  password: "123456"  # 密码
+  adress: "127.0.0.1" # 地址
+  dataBase: "demo"  # 数据库名
+  dataSheet: "city" # 数据表
+
+# 生成数据范围
+data:
+  startYear: 2012 # 最小年份
+  endYear: 2024 # 最大年份
+
+# 服务器配置
+server:
+  port: 8080  # 端口
+  path: "/city" # 访问路径
+  cross: false # 是否开启跨域
