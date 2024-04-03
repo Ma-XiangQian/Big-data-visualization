@@ -1,7 +1,7 @@
 {
   "name": "myapi",
   "version": "1.0.0",
-  "description": "重庆高职大数据比赛数据可视化接口模拟",
+  "description": "重庆职业院校大数据比赛数据可视化接口模拟",
   "main": "app.js",
   "scripts": {
     "dev": "node app.js",
